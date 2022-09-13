@@ -1,7 +1,4 @@
 
-cloudera
-
-
 
 1. Download vechile sales data -> https://github.com/shashank-mishra219/Hive-Class/blob/main/sales_order_data.csv
 
