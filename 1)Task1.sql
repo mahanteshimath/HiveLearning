@@ -1,3 +1,8 @@
+
+cloudera
+
+
+
 1. Download vechile sales data -> https://github.com/shashank-mishra219/Hive-Class/blob/main/sales_order_data.csv
 
 2. Store raw data into hdfs location
