@@ -50,3 +50,11 @@ FULL OUTER JOIN
 select c.*,o.*  from monty.customers c
 full outer join monty.order o
 on (o.customer_id=c.id);
+
+
+
+
+CROSS JOIN
+
+select c.*,o.*  from monty.customers c
+cross join  monty.order o;
